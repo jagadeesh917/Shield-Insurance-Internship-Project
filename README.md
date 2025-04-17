@@ -30,11 +30,12 @@ The pilot project aims to help Shield Insurance understand key metrics such as t
 
 ## 🔍 Insights Derived from the Dashboard
 
-- In the month of **March**, Shield Insurance saw tremendous growth with **7,081 customers acquired** and **₹263.84M in total revenue**. The average daily revenue stood at **₹8.51M**.
-- **Offline Agents** were initially the top sales mode but declined from **63.98% to 44.94%**. Meanwhile, **Online App** sales rose from **4.18% to 27.12%**, showing a shift toward digital channels.
-- The **31–40 age group** had the highest customer count with **10,562**, while the **18–24 group** had the lowest with **1,916**.
+### From November to April,
+- Shield Insurance saw tremendous growth. In the month of March alone, the company acquired **7,081** customers and generated **₹263.84M** in total revenue. The average daily revenue stood at **₹8.51M**.
+- **Offline Agents**, the initially dominant sales mode, declined from **63.98%** in November to **44.94%** in April.
+- Meanwhile, **Online App** sales rose significantly from **4.18%** in November to **27.12%** in April, reflecting a strong shift toward digital channels.
+- The **31–40** age group had the highest customer count with **10,562**, while the **18–24** group had the lowest with **1,916**.
 - **Policy P1** was the most purchased policy, whereas **Policy P8** was the least preferred.
-
 ---
 
 ## ✅ Recommendations
