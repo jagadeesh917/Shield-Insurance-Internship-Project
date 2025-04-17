@@ -50,9 +50,7 @@ The pilot project aims to help Shield Insurance understand key metrics such as t
 
 ## 🙌 Acknowledgements
 
-I would like to express my sincere gratitude to the **Codebasics** team for their support throughout this project.  
-🙏 **Special thanks to Dhaval Patel Sir and Hemanand Vadivel Sir** for their guidance and mentorship, which have been invaluable in completing this project successfully.
-
-Special thanks also to my mentor **Hemanand vadivel sir** for their continuous guidance throughout the internship.
+I would like to express my sincere gratitude to the Codebasics team for their support throughout this project.
+🙏 Special thanks to Dhaval Patel Sir and Hemanand Vadivel Sir for their invaluable guidance and mentorship during the internship.
 """
 
