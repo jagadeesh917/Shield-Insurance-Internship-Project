@@ -1,6 +1,6 @@
 # Shield-Insurance-Internship-Project
 
-![Dashboard Screenshot]"C:\Users\jagad\OneDrive\Main View.png"
+![Dashboard Screenshot]("C:\Users\jagad\OneDrive\Main View.png")
 
 
 [🔗 Click here to view the full dashboard in Power BI][(https://app.powerbi.com/view?r=your_report_link_here)](https://app.powerbi.com/view?r=eyJrIjoiODYyZjgwNzctMWVkMy00OGY3LTg4MzUtZTczOThiMGE1ZWJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectiond8492a962ebbd2e7bc3a)
