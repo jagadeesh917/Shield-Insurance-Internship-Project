@@ -87,8 +87,10 @@ Shield Insurance is on a strong growth trajectory. By focusing on the **18–24 
 ---
 
 ## 🙌 Acknowledgements
+ 
+I would like to express my sincere gratitude to the **Codebasics** team for their support throughout this project.  
+🙏 **Special thanks to Dhaval Patel Sir and Hemanand Vadivel Sir** for their guidance and mentorship, which have been invaluable in completing this project successfully.
 
-I would like to express my sincere gratitude to the Codebasics team for their support throughout this project.
-🙏 Special thanks to Dhaval Patel Sir and Hemanand Vadivel Sir for their invaluable guidance and mentorship during the internship.
+Special thanks also to **Mathew (Business Analyst at Shield Insurance)** and my mentor **Hemanand** for their continuous guidance throughout the internship.
 """
 
