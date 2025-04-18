@@ -1,5 +1,12 @@
 # Shield-Insurance-Internship-Project
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](path_to_your_image.png)
+
+[🔗 Click here to view the full dashboard in Power BI][(https://app.powerbi.com/view?r=your_report_link_here)](https://app.powerbi.com/view?r=eyJrIjoiODYyZjgwNzctMWVkMy00OGY3LTg4MzUtZTczOThiMGE1ZWJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectiond8492a962ebbd2e7bc3a)
+
+
 # 📊 Shield Insurance Internship Project
 
 This project was developed as part of my internship with **AtliQ Technologies**, based on a real-world business case from **Shield Insurance**, a company operating in five major Indian cities. The goal was to build an insightful Power BI dashboard to support data-driven decision-making.
