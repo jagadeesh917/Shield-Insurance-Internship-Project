@@ -2,6 +2,7 @@
 
 [🔗 Click here to view the full dashboard in Power BI][(https://app.powerbi.com/view?r=your_report_link_here)](https://app.powerbi.com/view?r=eyJrIjoiODYyZjgwNzctMWVkMy00OGY3LTg4MzUtZTczOThiMGE1ZWJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectiond8492a962ebbd2e7bc3a)
 
+[Presentation video](https://1drv.ms/v/c/c906e59640ef80cc/EUSALf-lio1Bh6iQ0w0uKtEBSS8jSc7-04HoCmVuBjnC3A?e=dOKuMJ)
 
 # 📊 Shield Insurance Internship Project
 
