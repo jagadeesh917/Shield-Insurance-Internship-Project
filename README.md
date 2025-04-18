@@ -82,13 +82,6 @@ Shield Insurance is on a strong growth trajectory. By focusing on the **18–24 
 
 ---
 
-## 📁 Files Included
-
-- Power BI Dashboard (`.pbix`)  
-- DAX Metrics List (`.xlsx`)  
-- Project Documentation (`.docx`)  
-
----
 
 ## 🙌 Acknowledgements
  
